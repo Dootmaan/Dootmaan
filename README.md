@@ -5,7 +5,7 @@
 ### Hi there, I am Dotman 👋
 
 - Mainly focus on medical image processing
-- Thirsty for having full-stack development capability
+- Thirsty for full-stack development capability
 - Good at ball games 🏸
 
 <!--
