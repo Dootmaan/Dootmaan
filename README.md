@@ -1,10 +1,12 @@
-### Hi there, I am Dotman 👋
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+### Hi there, I am Dotman 👋
+
 - Mainly focus on medical image processing
 - Thirsty for having full-stack development capability
-- Very good at ball games 🏸
+- Good at ball games 🏸
 
 <!--
 **Dootmaan/Dootmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
