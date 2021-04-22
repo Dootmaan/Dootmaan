@@ -6,7 +6,7 @@
 
 - Mainly focus on medical image processing
 - Thirsty for full-stack development capability
-- Good at ball games 🏸
+- Good at ball games 🏸 (idk)
 
 <!--
 **Dootmaan/Dootmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
