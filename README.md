@@ -5,8 +5,9 @@
 ### Hi there, I am Dotman 👋
 
 - Mainly focus on medical image processing
-- Thirsty for full-stack development capability
-- Good at ball games 🏸 (idk)
+- Also interested in Lightweight models and image reconstruction
+- Currently working on lightweight self-attention modules
+- Love ball games 🏸
 
 <!--
 **Dootmaan/Dootmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
