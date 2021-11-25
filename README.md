@@ -12,6 +12,12 @@
 ---
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
+2. 🗣 Commented on [#2](https://github.com/Dootmaan/MT-UNet/issues/2) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#83](https://github.com/torch-points3d/torch-points-kernels/issues/83) in [torch-points3d/torch-points-kernels](https://github.com/torch-points3d/torch-points-kernels)
+4. 🗣 Commented on [#68](https://github.com/Tramac/awesome-semantic-segmentation-pytorch/issues/68) in [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
+5. 🎉 Merged PR [#2](https://github.com/Dootmaan/Lung-Nodule-Detect/pull/2) in [Dootmaan/Lung-Nodule-Detect](https://github.com/Dootmaan/Lung-Nodule-Detect)
+<!--END_SECTION:activity-->
 
 
 
