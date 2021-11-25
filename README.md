@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&hide_title=true&theme=radical)" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&hide_title=true&theme=radical" />
 
 ### Hi there, I am Dotman 👋
 
