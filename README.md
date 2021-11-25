@@ -8,14 +8,14 @@
 
 ---
 
-Github Stats
+### Github Stats
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&theme=radical" />
 
 
 ---
 
-Recent Activities
+### Recent Activities
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
