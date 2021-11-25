@@ -1,4 +1,4 @@
-👋 ### Hi there, I am Dotman
+### Hi there, I am Dotman 👋
 
 - Mainly focus on medical image processing
 - Also interested in Lightweight models and image reconstruction
