@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&theme=radical" />
+
 ### Hi there, I am Dotman 👋
 
 - Mainly focus on medical image processing
@@ -5,7 +7,6 @@
 - Currently working on lightweight self-attention modules
 - Love ball games 🏸
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&theme=radical" />
 
 
 <!--
