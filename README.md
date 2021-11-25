@@ -6,6 +6,13 @@
 - Currently working on lightweight self-attention modules
 - Love ball games 🏸
 
+
+[![Github Badge](https://img.shields.io/github/followers/Dootmaan?style=social)](https://github.com/Dootmaan)  
+[![Twitch](https://img.shields.io/twitch/status/njdswhy?style=social)](https://www.twitch.tv/njdswhy)  
+[![Mail](https://img.shields.io/badge/-whonyi@zju.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:whongyi@zju.edu.cn)](mailto:whongyi@zju.edu.cn)  
+
+
+
 ---
 
 ### 😎 Github Stats
