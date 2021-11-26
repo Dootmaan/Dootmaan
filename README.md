@@ -26,11 +26,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
-2. 🗣 Commented on [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
-3. ❗️ Opened issue [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
-4. 🗣 Commented on [#2](https://github.com/Dootmaan/MT-UNet/issues/2) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. 🗣 Commented on [#83](https://github.com/torch-points3d/torch-points-kernels/issues/83) in [torch-points3d/torch-points-kernels](https://github.com/torch-points3d/torch-points-kernels)
+1. ❗️ Closed issue [#3](https://github.com/Dootmaan/MT-UNet/issues/3) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🗣 Commented on [#3](https://github.com/Dootmaan/MT-UNet/issues/3) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. ❗️ Closed issue [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
+4. 🗣 Commented on [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
+5. ❗️ Opened issue [#20](https://github.com/facebookresearch/bitsandbytes/issues/20) in [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes)
 <!--END_SECTION:activity-->
 
 
