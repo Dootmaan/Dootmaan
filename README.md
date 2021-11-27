@@ -1,10 +1,10 @@
 
-### 👋 Hi there, I am Dotman
+### 👋 Hi there, I am Hongyi aka [Dotman]
 
 - Mainly focus on medical image processing
 - Also interested in Lightweight models and image reconstruction
 - Currently working on lightweight self-attention modules
-- Love ball games 🏸
+- Love all kinds of ball games 🏸🎾🏓
 
 
 [![Github Badge](https://img.shields.io/github/followers/Dootmaan?style=social)](https://github.com/Dootmaan)  
