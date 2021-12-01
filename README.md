@@ -8,7 +8,7 @@
 
 
 [![Github Badge](https://img.shields.io/github/followers/Dootmaan?style=social)](https://github.com/Dootmaan)  
-[![Twitch](https://img.shields.io/twitch/status/njdswhy?style=social)](https://www.twitch.tv/njdswhy)  
+[![Twitch](https://img.shields.io/twitch/status/dootmaan?style=social)](https://www.twitch.tv/dootmaan)  
 [![Mail](https://img.shields.io/badge/-Work:whongyi@zju.edu.cn-ffffff?style=flat&logo=Gmail&logoColor=blue&link=mailto:whongyi@zju.edu.cn)](mailto:whongyi@zju.edu.cn)  
 [![Mail](https://img.shields.io/badge/-Gmail:njdswhy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:njdswhy@gmail.com)](mailto:njdswhy@gmail.com)  
 
