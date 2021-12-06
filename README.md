@@ -26,11 +26,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Dootmaan/DSRL/issues/16) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
-2. ❗️ Closed issue [#16](https://github.com/Dootmaan/DSRL/issues/16) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
-3. 🗣 Commented on [#15](https://github.com/Dootmaan/DSRL/issues/15) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
-4. 🗣 Commented on [#5](https://github.com/Dootmaan/MT-UNet/issues/5) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. ❗️ Closed issue [#5](https://github.com/Dootmaan/MT-UNet/issues/5) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 💪 Opened PR [#1](https://github.com/ZhuYun97/CosineAnnealingWithWarmup/pull/1) in [ZhuYun97/CosineAnnealingWithWarmup](https://github.com/ZhuYun97/CosineAnnealingWithWarmup)
+2. 🗣 Commented on [#16](https://github.com/Dootmaan/DSRL/issues/16) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+3. ❗️ Closed issue [#16](https://github.com/Dootmaan/DSRL/issues/16) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+4. 🗣 Commented on [#15](https://github.com/Dootmaan/DSRL/issues/15) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+5. 🗣 Commented on [#5](https://github.com/Dootmaan/MT-UNet/issues/5) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
