@@ -5,7 +5,7 @@
 - Also interested in Lightweight models and image reconstruction
 - Currently working on lightweight self-attention modules
 - Love all kinds of ball games 🏸🎾🏓
-- Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/global/dota2_logo_symbol.png" />! 
+- Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react//icons/dpc.svg" />! 
 <!-- 
 ### 🔨 Languages and Tools
 
