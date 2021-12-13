@@ -7,7 +7,12 @@
 - Love all kinds of ball games 🏸🎾🏓
 - Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/global/dota2_logo_symbol.png" />! 
 
+### 🔨 Languages and Tools
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vuedotjs.svg" />     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vercel.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" /> 
+
+
+### ✉️ Connect with me
 
 [![Weibo](https://img.shields.io/badge/-Weibo-ff2200?style=flat&logo=sinaweibo&link=https://weibo.com/u/2971638172)](https://weibo.com/u/2971638172)
 [![Douban](https://img.shields.io/badge/-Douban-33ff33?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
