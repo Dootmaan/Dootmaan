@@ -14,7 +14,7 @@
 
 ---
 
-### Spotify Now Playing
+### 🎵 Spotify Now Playing
 
 [![Spotify](https://spotify-now-playing-dootmaan.vercel.app/api/spotify)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
 
