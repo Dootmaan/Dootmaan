@@ -5,10 +5,11 @@
 - Also interested in Lightweight models and image reconstruction
 - Currently working on lightweight self-attention modules
 - Love all kinds of ball games 🏸🎾🏓
+- Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/global/dota2_logo_symbol.png" />! 
 
 
 [![Github Badge](https://img.shields.io/github/followers/Dootmaan?style=social)](https://github.com/Dootmaan)  
-[![Twitch](https://img.shields.io/twitch/status/dootmaan?style=social)](https://www.twitch.tv/dootmaan)  
+[![Steam](https://img.shields.io/badge/-Steam-darkblue?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/)  [![Twitch](https://img.shields.io/twitch/status/dootmaan?style=social)](https://www.twitch.tv/dootmaan)  
 [![Mail](https://img.shields.io/badge/-Work:whongyi@zju.edu.cn-ffffff?style=flat&logo=Gmail&logoColor=blue&link=mailto:whongyi@zju.edu.cn)](mailto:whongyi@zju.edu.cn)  
 [![Mail](https://img.shields.io/badge/-Gmail:njdswhy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:njdswhy@gmail.com)](mailto:njdswhy@gmail.com)  
 
