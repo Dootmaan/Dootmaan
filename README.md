@@ -16,14 +16,15 @@
 
 [![Github Badge](https://img.shields.io/github/followers/Dootmaan?style=social)](https://github.com/Dootmaan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn:Hongyi-004499?style=flat&logo=linkedin&link=https://www.linkedin.com/in/hongyi-wang-8609aa8a/)](https://www.linkedin.com/in/hongyi-wang-8609aa8a/)
-[![Spotify](https://img.shields.io/badge/-Spotify-000000?style=flat&logo=spotify&link=https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)   
-[![Mail](https://img.shields.io/badge/-Work:whongyi@zju.edu.cn-ffffff?style=flat&logo=Gmail&logoColor=blue&link=mailto:whongyi@zju.edu.cn)](mailto:whongyi@zju.edu.cn)
-[![Gmail](https://img.shields.io/badge/-Gmail:njdswhy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:njdswhy@gmail.com)](mailto:njdswhy@gmail.com)    
-[![Reddit](https://img.shields.io/badge/-Reddit-orange?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/user/dootmaan)](https://www.reddit.com/user/dootmaan)
+[![GrandChallenge](https://img.shields.io/badge/-GrandChallenge-444444?style=flat&logo=site&link=https://grand-challenge.org/users/WangHy/)](https://grand-challenge.org/users/WangHy/)   
+[![Gmail](https://img.shields.io/badge/-Gmail:njdswhy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:njdswhy@gmail.com)](mailto:njdswhy@gmail.com)
+[![Mail](https://img.shields.io/badge/-Work:whongyi@zju.edu.cn-ffffff?style=flat&logo=mail.ru&logoColor=blue&link=mailto:whongyi@zju.edu.cn)](mailto:whongyi@zju.edu.cn)      
+[![Reddit](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/user/dootmaan)](https://www.reddit.com/user/dootmaan)
 [![Twitch](https://img.shields.io/twitch/status/dootmaan?style=social)](https://www.twitch.tv/dootmaan)
-[![Weibo](https://img.shields.io/badge/-Weibo-ff2200?style=flat&logo=sinaweibo&link=https://weibo.com/u/2971638172)](https://weibo.com/u/2971638172)
-[![Douban](https://img.shields.io/badge/-Douban-33ff33?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
-[![Steam](https://img.shields.io/badge/-Steam-darkblue?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/) 
+[![Weibo](https://img.shields.io/badge/-Weibo-e6162d?style=flat&logo=sinaweibo&link=https://weibo.com/u/2971638172)](https://weibo.com/u/2971638172)
+[![Douban](https://img.shields.io/badge/-Douban-007722?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
+[![Steam](https://img.shields.io/badge/-Steam-000080?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/) 
+<!-- [![Spotify](https://img.shields.io/badge/-Spotify-000000?style=flat&logo=spotify&link=https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)    -->
 
 
 ---
