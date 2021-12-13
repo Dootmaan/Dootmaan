@@ -12,7 +12,11 @@
 [![Mail](https://img.shields.io/badge/-Work:whongyi@zju.edu.cn-ffffff?style=flat&logo=Gmail&logoColor=blue&link=mailto:whongyi@zju.edu.cn)](mailto:whongyi@zju.edu.cn)  
 [![Mail](https://img.shields.io/badge/-Gmail:njdswhy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:njdswhy@gmail.com)](mailto:njdswhy@gmail.com)  
 
+---
 
+### Spotify Now Playing
+
+[![Spotify](spotify-now-playing-dootmaan.vercel.app/api/spotify)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
 
 ---
 
