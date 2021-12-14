@@ -6,10 +6,26 @@
 - Currently working on lightweight self-attention modules
 - Love all kinds of ball games 🏸🎾🏓
 - Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react//icons/dpc.svg" />! 
-<!-- 
-### 🔨 Languages and Tools
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vuedotjs.svg" />     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vercel.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />  -->
+
+<details>
+ <summary>🛠️ Languages and Tools</summary>
+</br>
+
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Markdown" width="32px" src="https://code.visualstudio.com/assets/icons/file-icons/markdown.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="32px" src="https://code.visualstudio.com/assets/icons/file-icons/powershell.svg" />
+
+<!-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vuedotjs.svg" />     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vercel.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />  -->
+</br>
+</details>
+
 
 
 ### ✉️ Connect with me
