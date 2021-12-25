@@ -65,11 +65,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Dootmaan/DSRL/issues/17) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
-2. 🗣 Commented on [#1](https://github.com/VinAIResearch/Point-Unet/issues/1) in [VinAIResearch/Point-Unet](https://github.com/VinAIResearch/Point-Unet)
-3. ❗️ Opened issue [#1](https://github.com/VinAIResearch/Point-Unet/issues/1) in [VinAIResearch/Point-Unet](https://github.com/VinAIResearch/Point-Unet)
-4. 💪 Opened PR [#1](https://github.com/ZhuYun97/CosineAnnealingWithWarmup/pull/1) in [ZhuYun97/CosineAnnealingWithWarmup](https://github.com/ZhuYun97/CosineAnnealingWithWarmup)
-5. 🗣 Commented on [#16](https://github.com/Dootmaan/DSRL/issues/16) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+1. ❗️ Closed issue [#6](https://github.com/Dootmaan/MT-UNet/issues/6) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🗣 Commented on [#6](https://github.com/Dootmaan/MT-UNet/issues/6) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. ❗️ Closed issue [#7](https://github.com/Dootmaan/MT-UNet/issues/7) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. 🗣 Commented on [#7](https://github.com/Dootmaan/MT-UNet/issues/7) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. ❗️ Closed issue [#8](https://github.com/Dootmaan/MT-UNet/issues/8) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
