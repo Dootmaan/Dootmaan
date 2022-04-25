@@ -65,11 +65,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/Dootmaan/MT-UNet/issues/16) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-2. 🗣 Commented on [#16](https://github.com/Dootmaan/MT-UNet/issues/16) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. ❗️ Closed issue [#13](https://github.com/Dootmaan/MT-UNet/issues/13) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-4. 🗣 Commented on [#13](https://github.com/Dootmaan/MT-UNet/issues/13) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. ❗️ Closed issue [#14](https://github.com/Dootmaan/MT-UNet/issues/14) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 🗣 Commented on [#20](https://github.com/Dootmaan/MT-UNet/issues/20) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. ❗️ Opened issue [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+3. ❗️ Closed issue [#16](https://github.com/Dootmaan/MT-UNet/issues/16) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. 🗣 Commented on [#16](https://github.com/Dootmaan/MT-UNet/issues/16) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. ❗️ Closed issue [#13](https://github.com/Dootmaan/MT-UNet/issues/13) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
