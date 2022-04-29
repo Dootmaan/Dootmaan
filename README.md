@@ -65,11 +65,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-2. 🗣 Commented on [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-3. 🗣 Commented on [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-4. 🗣 Commented on [#20](https://github.com/Dootmaan/MT-UNet/issues/20) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. ❗️ Opened issue [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+1. 🗣 Commented on [#20](https://github.com/Dootmaan/MT-UNet/issues/20) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🗣 Commented on [#21](https://github.com/Dootmaan/MT-UNet/issues/21) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. ❗️ Closed issue [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+4. 🗣 Commented on [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+5. 🗣 Commented on [#1512](https://github.com/open-mmlab/mmsegmentation/issues/1512) in [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 <!--END_SECTION:activity-->
 
 
