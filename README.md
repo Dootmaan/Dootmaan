@@ -67,9 +67,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/Dootmaan/MT-UNet/issues/29) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 2. 🗣 Commented on [#29](https://github.com/Dootmaan/MT-UNet/issues/29) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. ❗️ Closed issue [#28](https://github.com/Dootmaan/MT-UNet/issues/28) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-4. 🗣 Commented on [#28](https://github.com/Dootmaan/MT-UNet/issues/28) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. ❗️ Closed issue [#25](https://github.com/Dootmaan/MT-UNet/issues/25) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#29](https://github.com/Dootmaan/MT-UNet/issues/29) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. ❗️ Closed issue [#28](https://github.com/Dootmaan/MT-UNet/issues/28) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. 🗣 Commented on [#28](https://github.com/Dootmaan/MT-UNet/issues/28) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
