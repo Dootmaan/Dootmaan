@@ -46,12 +46,12 @@
 [![Steam](https://img.shields.io/badge/-Steam-071E47?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/) 
 <!-- [![Spotify](https://img.shields.io/badge/-Spotify-000000?style=flat&logo=spotify&link=https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)    -->
 
-<!-- 
+
 ---
 
 ### 🎵 Spotify Now Playing
 
-[![Spotify](https://spotify-now-playing-dootmaan.vercel.app/api/spotify)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4) -->
+[![Spotify](https://spotify-now-playing-dootmaan.vercel.app/api/spotify)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
 
 ---
 
