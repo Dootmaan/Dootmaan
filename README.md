@@ -65,11 +65,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Dootmaan/DSRL/issues/18) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
-2. 🗣 Commented on [#31](https://github.com/Dootmaan/MT-UNet/issues/31) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-4. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. 🗣 Commented on [#29](https://github.com/Dootmaan/MT-UNet/issues/29) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 🗣 Commented on [#31](https://github.com/Dootmaan/MT-UNet/issues/31) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. ❗️ Closed issue [#31](https://github.com/Dootmaan/MT-UNet/issues/31) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#18](https://github.com/Dootmaan/DSRL/issues/18) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+4. 🗣 Commented on [#31](https://github.com/Dootmaan/MT-UNet/issues/31) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
