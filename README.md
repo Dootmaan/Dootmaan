@@ -44,6 +44,8 @@
 [![Weibo](https://img.shields.io/badge/-Weibo-e6162d?style=flat&logo=sinaweibo&link=https://weibo.com/u/2971638172)](https://weibo.com/u/2971638172)
 [![Douban](https://img.shields.io/badge/-Douban-007722?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
 [![Steam](https://img.shields.io/badge/-Steam-071E47?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/) 
+
+[![Blog](https://img.shields.io/badge/-Welcome_to_My_Personal_Page-1385bb?style=flat&logo=microsoftedge&link=https://dootmaan.github.io/)](https://dootmaan.github.io/) 
 <!-- [![Spotify](https://img.shields.io/badge/-Spotify-000000?style=flat&logo=spotify&link=https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)    -->
 
 <!-- 
