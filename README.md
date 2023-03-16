@@ -67,10 +67,10 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/hrzhang1123/DTFD-MIL/issues/11) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-2. 🗣 Commented on [#8](https://github.com/hrzhang1123/DTFD-MIL/issues/8) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-3. 🗣 Commented on [#6](https://github.com/hrzhang1123/DTFD-MIL/issues/6) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-4. 🗣 Commented on [#4](https://github.com/hrzhang1123/DTFD-MIL/issues/4) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
+1. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🗣 Commented on [#34](https://github.com/Dootmaan/MT-UNet/issues/34) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#33](https://github.com/Dootmaan/MT-UNet/issues/33) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. ❗️ Opened issue [#11](https://github.com/hrzhang1123/DTFD-MIL/issues/11) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
 5. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
