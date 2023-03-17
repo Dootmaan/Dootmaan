@@ -42,7 +42,7 @@
 [![Reddit](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/user/dootmaan)](https://www.reddit.com/user/dootmaan)
 [![Twitch](https://img.shields.io/twitch/status/dootmaan?style=social)](https://www.twitch.tv/dootmaan)
 [![Weibo](https://img.shields.io/badge/-Weibo-e6162d?style=flat&logo=sinaweibo&link=https://weibo.com/u/2971638172)](https://weibo.com/u/2971638172)
-[![Douban](https://img.shields.io/badge/-Douban-007722?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
+[![Douban](https://img.shields.io/badge/-Douban-005522?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
 [![Steam](https://img.shields.io/badge/-Steam-071E47?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/) 
 
 [![Blog](https://img.shields.io/badge/-Welcome_to_My_Personal_Page-1385bb?style=flat&logo=microsoftedge&link=https://dootmaan.github.io/)](https://dootmaan.github.io/) 
