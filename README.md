@@ -67,11 +67,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/Dootmaan/MT-UNet/issues/33) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-2. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. 🗣 Commented on [#34](https://github.com/Dootmaan/MT-UNet/issues/34) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-4. 🗣 Commented on [#33](https://github.com/Dootmaan/MT-UNet/issues/33) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. ❗️ Opened issue [#11](https://github.com/hrzhang1123/DTFD-MIL/issues/11) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
+1. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
+2. 🗣 Commented on [#33](https://github.com/Dootmaan/MT-UNet/issues/33) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#30](https://github.com/Dootmaan/MT-UNet/issues/30) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. 🗣 Commented on [#34](https://github.com/Dootmaan/MT-UNet/issues/34) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. 🗣 Commented on [#33](https://github.com/Dootmaan/MT-UNet/issues/33) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
