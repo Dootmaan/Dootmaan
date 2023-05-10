@@ -70,8 +70,8 @@
 1. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 2. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 3. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
-4. 🗣 Commented on [#3](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/3) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
-5. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
+4. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
+5. 🗣 Commented on [#3](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/3) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 <!--END_SECTION:activity-->
 
 
