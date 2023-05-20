@@ -67,7 +67,7 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
+1. 🗣 Commented on [#4](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/4) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 2. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 3. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 4. 🗣 Commented on [#2](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/2) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
