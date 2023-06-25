@@ -67,11 +67,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/hrzhang1123/DTFD-MIL/issues/11) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-2. ❗ Opened issue [#13](https://github.com/hrzhang1123/DTFD-MIL/issues/13) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-3. 🗣 Commented on [#12](https://github.com/hrzhang1123/DTFD-MIL/issues/12) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-4. 🗣 Commented on [#4](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/4) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
-5. 🗣 Commented on [#4](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/4) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
+1. 🗣 Commented on [#20](https://github.com/Dootmaan/DSRL/issues/20) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+2. 🗣 Commented on [#19](https://github.com/Dootmaan/DSRL/issues/19) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+3. 🗣 Commented on [#11](https://github.com/hrzhang1123/DTFD-MIL/issues/11) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
+4. ❗ Opened issue [#13](https://github.com/hrzhang1123/DTFD-MIL/issues/13) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
+5. 🗣 Commented on [#12](https://github.com/hrzhang1123/DTFD-MIL/issues/12) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
 <!--END_SECTION:activity-->
 
 
