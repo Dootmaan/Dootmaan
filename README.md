@@ -2,8 +2,8 @@
 ### 👋 Hi there, I am Hongyi aka [Dotman]
 
 - Mainly focus on medical image processing
-- Also interested in Lightweight models and image reconstruction
-- Currently working on lightweight self-attention modules
+- Also interested in lightweight models and image reconstruction
+- Currently working on multiple instance learning for WSIs
 - Love all kinds of ball games 🏸🎾🏓
 - Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react//icons/dpc.svg" />! 
 
