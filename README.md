@@ -67,11 +67,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Dootmaan/DSRL/issues/21#issuecomment-1889143105) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
-2. 🗣 Commented on [#41](https://github.com/Dootmaan/MT-UNet/issues/41#issuecomment-1831207387) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. 🗣 Commented on [#5](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/5#issuecomment-1813853600) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
-4. ❗ Opened issue [#13](https://github.com/hrzhang1123/DTFD-MIL/issues/13) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
-5. 🗣 Commented on [#12](https://github.com/hrzhang1123/DTFD-MIL/issues/12#issuecomment-1569422986) in [hrzhang1123/DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL)
+1. 🗣 Commented on [#1](https://github.com/Dootmaan/ICMIL/issues/1#issuecomment-1917402915) in [Dootmaan/ICMIL](https://github.com/Dootmaan/ICMIL)
+2. 🔒 Closed issue [#1](https://github.com/Dootmaan/ICMIL/issues/1) in [Dootmaan/ICMIL](https://github.com/Dootmaan/ICMIL)
+3. 🗣 Commented on [#21](https://github.com/Dootmaan/DSRL/issues/21#issuecomment-1889143105) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+4. 🗣 Commented on [#41](https://github.com/Dootmaan/MT-UNet/issues/41#issuecomment-1831207387) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. 🗣 Commented on [#5](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/5#issuecomment-1813853600) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 <!--END_SECTION:activity-->
 
 
