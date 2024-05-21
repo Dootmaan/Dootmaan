@@ -67,10 +67,10 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/Dootmaan/MT-UNet/issues/43#issuecomment-2106752997) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-2. 🗣 Commented on [#42](https://github.com/Dootmaan/MT-UNet/issues/42#issuecomment-2055845870) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. 💪 Opened PR [#1](https://github.com/NEXGEM/TRIPLEX/pull/1) in [NEXGEM/TRIPLEX](https://github.com/NEXGEM/TRIPLEX)
-4. 🔒 Closed issue [#1](https://github.com/Dootmaan/ICMIL/issues/1) in [Dootmaan/ICMIL](https://github.com/Dootmaan/ICMIL)
+1. 🗣 Commented on [#24](https://github.com/Dootmaan/DSRL/issues/24#issuecomment-2121632772) in [Dootmaan/DSRL](https://github.com/Dootmaan/DSRL)
+2. 🗣 Commented on [#43](https://github.com/Dootmaan/MT-UNet/issues/43#issuecomment-2106752997) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#42](https://github.com/Dootmaan/MT-UNet/issues/42#issuecomment-2055845870) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. 💪 Opened PR [#1](https://github.com/NEXGEM/TRIPLEX/pull/1) in [NEXGEM/TRIPLEX](https://github.com/NEXGEM/TRIPLEX)
 5. 🗣 Commented on [#5](https://github.com/Dootmaan/DTFD-MIL.PyTorch/issues/5#issuecomment-1813853600) in [Dootmaan/DTFD-MIL.PyTorch](https://github.com/Dootmaan/DTFD-MIL.PyTorch)
 <!--END_SECTION:activity-->
 
