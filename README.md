@@ -67,11 +67,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Dootmaan/PFSeg-Full/issues/1#issuecomment-2319645234) in [Dootmaan/PFSeg-Full](https://github.com/Dootmaan/PFSeg-Full)
-2. ❗ Opened issue [#1](https://github.com/efss24/SPMLD/issues/1) in [efss24/SPMLD](https://github.com/efss24/SPMLD)
-3. ❗ Opened issue [#29](https://github.com/wisdomikezogwo/quilt1m/issues/29) in [wisdomikezogwo/quilt1m](https://github.com/wisdomikezogwo/quilt1m)
-4. 🗣 Commented on [#45](https://github.com/Dootmaan/MT-UNet/issues/45#issuecomment-2196265285) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. 🗣 Commented on [#44](https://github.com/Dootmaan/MT-UNet/issues/44#issuecomment-2182618722) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. ❗ Opened issue [#14](https://github.com/mahmoodlab/CONCH/issues/14) in [mahmoodlab/CONCH](https://github.com/mahmoodlab/CONCH)
+2. 🗣 Commented on [#1](https://github.com/Dootmaan/PFSeg-Full/issues/1#issuecomment-2319645234) in [Dootmaan/PFSeg-Full](https://github.com/Dootmaan/PFSeg-Full)
+3. ❗ Opened issue [#1](https://github.com/efss24/SPMLD/issues/1) in [efss24/SPMLD](https://github.com/efss24/SPMLD)
+4. ❗ Opened issue [#29](https://github.com/wisdomikezogwo/quilt1m/issues/29) in [wisdomikezogwo/quilt1m](https://github.com/wisdomikezogwo/quilt1m)
+5. 🗣 Commented on [#45](https://github.com/Dootmaan/MT-UNet/issues/45#issuecomment-2196265285) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
