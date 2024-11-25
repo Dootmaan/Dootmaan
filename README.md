@@ -67,11 +67,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/mahmoodlab/CONCH/issues/16#issuecomment-2345543504) in [mahmoodlab/CONCH](https://github.com/mahmoodlab/CONCH)
-2. ❗ Opened issue [#16](https://github.com/mahmoodlab/CONCH/issues/16) in [mahmoodlab/CONCH](https://github.com/mahmoodlab/CONCH)
-3. ❗ Opened issue [#14](https://github.com/mahmoodlab/CONCH/issues/14) in [mahmoodlab/CONCH](https://github.com/mahmoodlab/CONCH)
-4. 🗣 Commented on [#1](https://github.com/Dootmaan/PFSeg-Full/issues/1#issuecomment-2319645234) in [Dootmaan/PFSeg-Full](https://github.com/Dootmaan/PFSeg-Full)
-5. ❗ Opened issue [#1](https://github.com/efss24/SPMLD/issues/1) in [efss24/SPMLD](https://github.com/efss24/SPMLD)
+1. 🔓 Reopened issue [#47](https://github.com/Dootmaan/MT-UNet/issues/47) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🗣 Commented on [#46](https://github.com/Dootmaan/MT-UNet/issues/46#issuecomment-2497147240) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#47](https://github.com/Dootmaan/MT-UNet/issues/47#issuecomment-2497140709) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. 🔒 Closed issue [#47](https://github.com/Dootmaan/MT-UNet/issues/47) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. 🗣 Commented on [#16](https://github.com/mahmoodlab/CONCH/issues/16#issuecomment-2345543504) in [mahmoodlab/CONCH](https://github.com/mahmoodlab/CONCH)
 <!--END_SECTION:activity-->
 
 
