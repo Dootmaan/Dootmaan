@@ -1,9 +1,9 @@
 
 ### 👋 Hi there, I am Hongyi aka [Dotman]
 
-- Mainly focus on medical image processing
+- Mainly focus on medical image analysis
 - Also interested in lightweight models and image reconstruction
-- Currently working on multiple instance learning for WSIs
+- Currently learning OpenXR development
 - Love all kinds of ball games 🏸🎾🏓
 - Find me on Steam and let's play some Dota <img height="14" src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react//icons/dpc.svg" />! 
 
@@ -24,6 +24,7 @@
 <img align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="VR" height="26px" src="https://simpleicons.org/icons/googlecardboard.svg" />
 <img align="left" alt="Terminal" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" />
 
 <!-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vuedotjs.svg" />     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vercel.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" />      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />  -->
