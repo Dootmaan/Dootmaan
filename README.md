@@ -68,8 +68,8 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/szc19990412/TransMIL/issues/37#issuecomment-2635571106) in [szc19990412/TransMIL](https://github.com/szc19990412/TransMIL)
-2. 🗣 Commented on [#49](https://github.com/Dootmaan/MT-UNet/issues/49#issuecomment-2508871002) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 🗣 Commented on [#50](https://github.com/Dootmaan/MT-UNet/issues/50#issuecomment-2668980342) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🗣 Commented on [#37](https://github.com/szc19990412/TransMIL/issues/37#issuecomment-2635571106) in [szc19990412/TransMIL](https://github.com/szc19990412/TransMIL)
 3. 🗣 Commented on [#48](https://github.com/Dootmaan/MT-UNet/issues/48#issuecomment-2508870552) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 4. 🗣 Commented on [#47](https://github.com/Dootmaan/MT-UNet/issues/47#issuecomment-2508869703) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 5. 🗣 Commented on [#2](https://github.com/Dootmaan/ICMIL/issues/2#issuecomment-2505648050) in [Dootmaan/ICMIL](https://github.com/Dootmaan/ICMIL)
