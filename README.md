@@ -68,11 +68,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/Dootmaan/MT-UNet/issues/49#issuecomment-2729697654) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-2. 🔒 Closed issue [#49](https://github.com/Dootmaan/MT-UNet/issues/49) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-3. 🗣 Commented on [#50](https://github.com/Dootmaan/MT-UNet/issues/50#issuecomment-2729696844) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-4. 🔒 Closed issue [#50](https://github.com/Dootmaan/MT-UNet/issues/50) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-5. 🗣 Commented on [#51](https://github.com/Dootmaan/MT-UNet/issues/51#issuecomment-2729186870) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 🗣 Commented on [#42](https://github.com/Dootmaan/MT-UNet/issues/42#issuecomment-2731461300) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+2. 🔒 Closed issue [#42](https://github.com/Dootmaan/MT-UNet/issues/42) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+3. 🗣 Commented on [#43](https://github.com/Dootmaan/MT-UNet/issues/43#issuecomment-2731460552) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+4. 🔒 Closed issue [#43](https://github.com/Dootmaan/MT-UNet/issues/43) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+5. 🗣 Commented on [#44](https://github.com/Dootmaan/MT-UNet/issues/44#issuecomment-2731459966) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
 
 
