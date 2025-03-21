@@ -60,8 +60,14 @@
 
 ### 😎 Github Stats
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&theme=radical" />
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false&theme=radical" />
 
+
+---
+
+### My Favourite Coding Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dootmaan&layout=donut&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&theme=radical)
 
 ---
 
