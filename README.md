@@ -74,7 +74,7 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/Dootmaan/MT-UNet/issues/53#issuecomment-2742214843) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 🗣 Commented on [#9](https://github.com/ShawnHuang497/MedPLIB/issues/9#issuecomment-3139146633) in [ShawnHuang497/MedPLIB](https://github.com/ShawnHuang497/MedPLIB)
 2. 🗣 Commented on [#52](https://github.com/Dootmaan/MT-UNet/issues/52#issuecomment-2740903329) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 3. 🗣 Commented on [#42](https://github.com/Dootmaan/MT-UNet/issues/42#issuecomment-2731461300) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 4. 🔒 Closed issue [#42](https://github.com/Dootmaan/MT-UNet/issues/42) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
