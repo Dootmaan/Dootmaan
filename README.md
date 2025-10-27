@@ -74,8 +74,8 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Dootmaan/M2ORT/issues/1#issuecomment-3446968275) in [Dootmaan/M2ORT](https://github.com/Dootmaan/M2ORT)
-2. 🗣 Commented on [#52](https://github.com/Dootmaan/MT-UNet/issues/52#issuecomment-2740903329) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
+1. 🗣 Commented on [#1](https://github.com/Dootmaan/M2ORT/issues/1#issuecomment-3450758160) in [Dootmaan/M2ORT](https://github.com/Dootmaan/M2ORT)
+2. 🗣 Commented on [#1](https://github.com/Dootmaan/M2ORT/issues/1#issuecomment-3446968275) in [Dootmaan/M2ORT](https://github.com/Dootmaan/M2ORT)
 3. 🗣 Commented on [#42](https://github.com/Dootmaan/MT-UNet/issues/42#issuecomment-2731461300) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 4. 🔒 Closed issue [#42](https://github.com/Dootmaan/MT-UNet/issues/42) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 5. 🗣 Commented on [#43](https://github.com/Dootmaan/MT-UNet/issues/43#issuecomment-2731460552) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
