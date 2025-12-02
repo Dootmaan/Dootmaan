@@ -45,23 +45,24 @@
 [![Weibo](https://img.shields.io/badge/-Weibo-e6162d?style=flat&logo=sinaweibo&link=https://weibo.com/u/2971638172)](https://weibo.com/u/2971638172)
 [![Douban](https://img.shields.io/badge/-Douban-005522?style=flat&logo=douban&link=https://www.douban.com/people/120238488/)](https://www.douban.com/people/120238488/)
 [![Steam](https://img.shields.io/badge/-Steam-071E47?style=flat&logo=steam&link=https://steamcommunity.com/profiles/76561198207820131/)](https://steamcommunity.com/profiles/76561198207820131/) 
+[![Spotify](https://img.shields.io/badge/-Spotify-000000?style=flat&logo=spotify&link=https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
+
 
 [![Blog](https://img.shields.io/badge/-Welcome_to_My_Personal_Page-1385bb?style=flat&logo=microsoftedge&link=https://dootmaan.github.io/)](https://dootmaan.github.io/) 
-<!-- [![Spotify](https://img.shields.io/badge/-Spotify-000000?style=flat&logo=spotify&link=https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)    -->
 
-<!-- 
+<!--
 ---
 
 ### 🎵 Spotify Now Playing
 
-[![Spotify](https://spotify-now-playing-e8qwsqotq-dootmaan.vercel.app/api/spotify)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4) -->
+[![Spotify](https://spotify-now-playing-dootmaan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
 
 ---
 
 ### 😎 Github Stats
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false&theme=radical" />
-
+-->
 
 ---
 
