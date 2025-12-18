@@ -75,9 +75,9 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596138239) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
-2. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596103306) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
-3. 🔒 Closed issue [#1](https://github.com/Dootmaan/M2ORT/issues/1) in [Dootmaan/M2ORT](https://github.com/Dootmaan/M2ORT)
+1. 🗣 Commented on [#2](https://github.com/prov-gigatime/GigaTIME/pull/2#issuecomment-3668106350) in [prov-gigatime/GigaTIME](https://github.com/prov-gigatime/GigaTIME)
+2. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596138239) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
+3. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596103306) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
 4. 🗣 Commented on [#1](https://github.com/Dootmaan/M2ORT/issues/1#issuecomment-3541161413) in [Dootmaan/M2ORT](https://github.com/Dootmaan/M2ORT)
 5. 🗣 Commented on [#43](https://github.com/Dootmaan/MT-UNet/issues/43#issuecomment-2731460552) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
 <!--END_SECTION:activity-->
