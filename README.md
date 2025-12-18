@@ -1,7 +1,7 @@
 
 ### 👋 Hi there, I am Hongyi aka [Dotman]
 
-- Mainly focus on medical image analysis
+- Mainly focus on computational pathology & medical image analysis
 - Also interested in lightweight models and image reconstruction
 - Currently learning OpenXR development
 - Love all kinds of ball games 🏸🎾🏓
@@ -56,13 +56,13 @@
 ### 🎵 Spotify Now Playing
 
 [![Spotify](https://spotify-now-playing-dootmaan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
-
+-->
 ---
 
 ### 😎 Github Stats
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false&theme=radical" />
--->
+
 
 ---
 
