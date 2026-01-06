@@ -75,7 +75,7 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596138239) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
+1. ❌ Closed PR [#3](https://github.com/Dootmaan/Lung-Nodule-Detect/pull/3) in [Dootmaan/Lung-Nodule-Detect](https://github.com/Dootmaan/Lung-Nodule-Detect)
 2. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596103306) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
 3. 🗣 Commented on [#1](https://github.com/Dootmaan/M2OST/issues/1#issuecomment-3596103306) in [Dootmaan/M2OST](https://github.com/Dootmaan/M2OST)
 4. 🗣 Commented on [#1](https://github.com/Dootmaan/M2ORT/issues/1#issuecomment-3541161413) in [Dootmaan/M2ORT](https://github.com/Dootmaan/M2ORT)
