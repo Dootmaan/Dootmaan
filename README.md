@@ -75,10 +75,10 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Dootmaan/MT-UNet/issues/10#issuecomment-3982554759) in [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet)
-2. 💪 Opened PR [#11](https://github.com/birkhoffkiki/PrePATH/pull/11) in [birkhoffkiki/PrePATH](https://github.com/birkhoffkiki/PrePATH)
-3. 💪 Opened PR [#2](https://github.com/Dootmaan/PathSearch/pull/2) in [Dootmaan/PathSearch](https://github.com/Dootmaan/PathSearch)
-4. ❌ Closed PR [#1](https://github.com/Dootmaan/PathSearch/pull/1) in [Dootmaan/PathSearch](https://github.com/Dootmaan/PathSearch)
+1. 🗣 Commented on [#9](https://github.com/KiwiGaze/glm-for-copilot/issues/9#issuecomment-4956680348) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+2. 💪 Opened PR [#26](https://github.com/KiwiGaze/glm-for-copilot/pull/26) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+3. 🗣 Commented on [#9](https://github.com/KiwiGaze/glm-for-copilot/issues/9#issuecomment-4955686719) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+4. 🗣 Commented on [#9](https://github.com/KiwiGaze/glm-for-copilot/issues/9#issuecomment-4955520993) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
 5. ❌ Closed PR [#3](https://github.com/Dootmaan/Lung-Nodule-Detect/pull/3) in [Dootmaan/Lung-Nodule-Detect](https://github.com/Dootmaan/Lung-Nodule-Detect)
 <!--END_SECTION:activity-->
 
