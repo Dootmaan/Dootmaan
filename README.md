@@ -56,22 +56,22 @@
 ### 🎵 Spotify Now Playing
 
 [![Spotify](https://spotify-now-playing-dootmaan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/314bedcquw5bxjqzw4mtetyvtrd4)
-
+-->
 ---
 
 ### 😎 Github Stats
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false&theme=radical" />
+<img align="bottom" src="https://github-stats-extended.vercel.app/api?username=Dootmaan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=101010&hide_title=false&theme=radical" />
 
 
 ---
 
 ### 💻 My Favourite Coding Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dootmaan&layout=donut&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Dootmaan&layout=donut&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=101010&theme=radical)
 
 ---
--->
+
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
