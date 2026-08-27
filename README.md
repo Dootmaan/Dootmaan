@@ -75,8 +75,8 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Dootmaan/kimi-for-copilot/issues/1#issuecomment-5055552987) in [Dootmaan/kimi-for-copilot](https://github.com/Dootmaan/kimi-for-copilot)
-2. 🎉 Merged PR [#28](https://github.com/KiwiGaze/glm-for-copilot/pull/28) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+1. ℹ️ Labeled issue [#46](https://github.com/KiwiGaze/glm-for-copilot/issues/46) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+2. ❗ Opened issue [#46](https://github.com/KiwiGaze/glm-for-copilot/issues/46) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
 3. 💪 Opened PR [#28](https://github.com/KiwiGaze/glm-for-copilot/pull/28) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
 4. 🗣 Commented on [#27](https://github.com/KiwiGaze/glm-for-copilot/issues/27#issuecomment-4981067263) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
 5. ℹ️ Labeled issue [#27](https://github.com/KiwiGaze/glm-for-copilot/issues/27) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
