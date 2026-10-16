@@ -75,11 +75,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Dootmaan/kimi-for-copilot/issues/1#issuecomment-5662514234) in [Dootmaan/kimi-for-copilot](https://github.com/Dootmaan/kimi-for-copilot)
-2. 🔒 Closed issue [#1](https://github.com/Dootmaan/kimi-for-copilot/issues/1) in [Dootmaan/kimi-for-copilot](https://github.com/Dootmaan/kimi-for-copilot)
-3. 🗣 Commented on [#48](https://github.com/KiwiGaze/glm-for-copilot/issues/48#issuecomment-5459369952) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
-4. 🗣 Commented on [#46](https://github.com/KiwiGaze/glm-for-copilot/issues/46#issuecomment-5434201780) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
-5. ℹ️ Labeled issue [#46](https://github.com/KiwiGaze/glm-for-copilot/issues/46) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+1. ❌ Closed PR [#5](https://github.com/Dootmaan/qwen-for-copilot/pull/5) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+2. ❌ Closed PR [#3](https://github.com/Dootmaan/qwen-for-copilot/pull/3) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+3. ❌ Closed PR [#6](https://github.com/Dootmaan/qwen-for-copilot/pull/6) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+4. ❌ Closed PR [#4](https://github.com/Dootmaan/qwen-for-copilot/pull/4) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+5. ❌ Closed PR [#2](https://github.com/Dootmaan/qwen-for-copilot/pull/2) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
 <!--END_SECTION:activity-->
 
 
