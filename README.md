@@ -75,11 +75,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#64](https://github.com/KiwiGaze/glm-for-copilot/issues/64) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
-2. ❌ Closed PR [#5](https://github.com/Dootmaan/qwen-for-copilot/pull/5) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
-3. ❌ Closed PR [#3](https://github.com/Dootmaan/qwen-for-copilot/pull/3) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
-4. ❌ Closed PR [#6](https://github.com/Dootmaan/qwen-for-copilot/pull/6) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
-5. ❌ Closed PR [#4](https://github.com/Dootmaan/qwen-for-copilot/pull/4) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+1. ❗ Opened issue [#64](https://github.com/KiwiGaze/glm-for-copilot/issues/64) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+2. ℹ️ Labeled issue [#64](https://github.com/KiwiGaze/glm-for-copilot/issues/64) in [KiwiGaze/glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot)
+3. ❌ Closed PR [#5](https://github.com/Dootmaan/qwen-for-copilot/pull/5) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+4. ❌ Closed PR [#3](https://github.com/Dootmaan/qwen-for-copilot/pull/3) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
+5. ❌ Closed PR [#6](https://github.com/Dootmaan/qwen-for-copilot/pull/6) in [Dootmaan/qwen-for-copilot](https://github.com/Dootmaan/qwen-for-copilot)
 <!--END_SECTION:activity-->
 
 
